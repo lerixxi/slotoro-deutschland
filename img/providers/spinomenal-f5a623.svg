@@ -1,0 +1,5 @@
+<svg width="240" height="60" viewBox="0 0 240 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Spinomenal">
+  <rect x="6" y="16" width="28" height="28" rx="7" fill="#F5A623"/>
+  <text x="20" y="36" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">S</text>
+  <text x="44" y="37" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800" fill="#ffffff" letter-spacing="0.3">Spino<tspan fill="#F5A623">menal</tspan></text>
+</svg>
